@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php
 	$CheckUrl=$_GET["url"];
-	$apikey = "AIzaSyCOx57tye2R6KLIkpU6_QvwH1O9Xpb6WXE";
+	$apikey = "API金鑰(Your API key)";
 	 
 	$data='{
 	 "client":{"clientId": "SafeiZO","clientVersion": "1.0"},
